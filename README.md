@@ -8,7 +8,7 @@
 **Pedro Nobre - RM 557454**
 
 ## Descrição
-O Electric Chain é uma plataforma inovadora que promove a descentralização da única forma de compra de energia do governo através do uso de blockchain. Nosso objetivo é promover o uso de diferentes tipos de energia renovável e descentralizar a aquisição de energia, proporcionando uma alternativa mais justa e eficiente. 
+O Electric Chain é uma plataforma inovadora que promove a descentralização da única forma de compra de energia do governo através do uso de blockchain. Nosso objetivo é promover o uso de diferentes tipos de energia renovável e descentralizar a aquisição de energia, proporcionando uma alternativa mais justa e eficiente. Mostrando para sociedade as diversas formas de obter energia e seus benefícios
 
 ## Principais Funcionalidades
 1. **Descentralização de Compra de Energia**  
