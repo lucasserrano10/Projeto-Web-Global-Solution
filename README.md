@@ -2,7 +2,9 @@
 
 ## Feito pelos Alunos :
 **Lucas Serrano - RM 555170** Linkedin ->> [https://www.linkedin.com/in/lucas-serrano-8168b6206/]
+
 **Caio Rossini - RM 555084**
+
 **Pedro Nobre - RM 557454**
 
 ## Descrição
