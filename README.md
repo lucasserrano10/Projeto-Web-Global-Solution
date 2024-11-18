@@ -11,25 +11,22 @@
 O Electric Chain é uma plataforma inovadora que promove a descentralização da única forma de compra de energia do governo através do uso de blockchain. Nosso objetivo é promover o uso de diferentes tipos de energia renovável e descentralizar a aquisição de energia, proporcionando uma alternativa mais justa e eficiente. Mostrando para sociedade as diversas formas de obter energia e seus benefícios
 
 ## Principais Funcionalidades
-1. **Descentralização de Compra de Energia**  
-   O Electric Chain utiliza a tecnologia de blockchain para permitir a compra de energia de forma descentralizada, promovendo o uso de fontes de energia renovável em vez da única fonte governamental. 
-
-2. **Mini Game com React**  
+1. **Mini Game com React**  
    Desenvolvemos um mini game interativo usando **`useState`** e **`useRef`** para ajudar a demonstrar de maneira prática como a tecnologia blockchain pode ser aplicada para facilitar a compra de energia renovável. Esse mini game oferece uma experiência envolvente para os usuários.
 
-3. **Navegação com React Router**  
+2. **Navegação com React Router**  
    O site utiliza o React Router para proporcionar uma experiência de navegação fluida entre as diferentes páginas do aplicativo. As rotas configuradas permitem acessar informações detalhadas, realizar transações, visualizar feeds de usuários, e muito mais.
 
-4. **Custom Hooks e App Fake com JSON Server**  
+3. **Custom Hooks e App Fake com JSON Server**  
    Implementamos hooks personalizados para armazenar dados no aplicativo fake via JSON Server. Esses hooks facilitam o resgate de dados e a atualização do feed de pessoas que utilizam a blockchain, proporcionando um feed dinâmico e em tempo real.
 
-5. **Feed de Usuários**  
+4. **Feed de Usuários**  
    Através dos nossos hooks personalizados, conseguimos criar um feed de pessoas que utilizam a tecnologia blockchain para comprar energia renovável. Este feed é alimentado por dados resgatados do aplicativo fake e exibido no site, mostrando o impacto do uso do blockchain na aquisição de energia.
 
-6. **Componentes Reutilizáveis**  
+4. **Componentes Reutilizáveis**  
    Desenvolvemos vários componentes reutilizáveis usando **styled-components**, tornando o design do aplicativo mais eficiente e permitindo personalizações fáceis em outras páginas e seções do site.
 
-7. **Estilização com Styled Components**  
+6. **Estilização com Styled Components**  
    Todo o estilo do site foi implementado usando o **styled-components**, garantindo uma interface visual profissional, limpa e organizada. A estilização é aplicada de forma dinâmica e responsiva, melhorando a experiência do usuário em qualquer dispositivo.
 
 ---
